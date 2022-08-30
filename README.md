@@ -1,6 +1,6 @@
 # SolidWorks
 
-Part design projects for use in the field of electronic engineering.
+Part design projects for use in the field of electronic engineering.<br>
 File formats: <br>
 <ul>
 <li>.SDLPRT</li>
